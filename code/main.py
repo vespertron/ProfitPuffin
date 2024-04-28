@@ -8,9 +8,9 @@ import visualization
 def main():
     # Retrieve data from Yahoo Finance and Alpha Vantage APIs
     yahoo_data = data_retrieval.retrieve_yahoo_data(
-        symbol='AAPL', start_date='2022-01-01', end_date='2022-12-31')
+        symbol='AAPL', start_date='2022-01-01', end_date='2024-03-31')
     alpha_vantage_data = data_retrieval.retrieve_alpha_vantage_data(
-        symbol='AAPL', start_date='2022-01-01', end_date='2022-12-31')
+        symbol='AAPL', start_date='2022-0-01', end_date='2024-03-31')
 
     # Process and analyze the retrieved data
     processed_yahoo_data = data_processing.process_data(yahoo_data)
