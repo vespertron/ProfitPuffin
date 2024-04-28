@@ -7,7 +7,11 @@ MVP:
 2. Identify opportunities with 1-5 risk ratio.
 3. Deliver trade alerts.
 
-Bunus features: 4. Execute trades. 5. Direct deposit. 6. Customizable trading strategies. 7. Self-correcting trading strategies.
+Bunus features: 
+4. Execute trades. 
+5. Direct deposit. 
+6. Customizable trading strategies. 
+7. Self-correcting trading strategies.
 
 See my Trello board for project plan and status: https://trello.com/b/5bUnBJjr/swing-trader-bot
 
