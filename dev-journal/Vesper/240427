@@ -1,0 +1,20 @@
+## Stand Up
+
+Yesterday - I finished creating the Trello board, https://trello.com/b/5bUnBJjr/swing-trader-bot. - defined the date range, granularity, coverage and format of the data I will need to retrieve for comparison and analysis.
+
+Today - I wasn't planning on working but I spent a few hours looking for data sources to compare.
+
+## Dev Notes:
+
+## Accomplished:
+
+## Upskilled:
+
+Project Management / Estimating Scope: "Research and select a data source for historical stock prices" might have been more appropriate as a story instead of a task under "Collect Historical Price Data". Based on today's effort I think I need at least the week to collect data sources before I begin the comparisons.
+https://trello.com/c/eTxU9sFm/3-11-collect-historical-price-data
+
+Technical: Python Project best practices: https://dagster.io/blog/python-project-best-practices
+
+## Quick Start Notes for Tomorrow
+
+Subtask 1.1.1.2 - Add project to GitHub. - Set up Yahoo Finance API. - Identify next data sources to connect to.
